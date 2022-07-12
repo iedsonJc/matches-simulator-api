@@ -6,13 +6,13 @@
           "imagem": "TODO"
     },
       "Mandante":{
-      "nome": "Brasil",
+      "nome": "https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_Brazil.svg",
         "força": 5,
         "imagem": "TODO"
         
      },
       "Visitante":{
-      "nome": "Argentina",
+      "nome": "https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_Argentina.svg",
         "força": 5,
         "imagem": "TODO"
     }
